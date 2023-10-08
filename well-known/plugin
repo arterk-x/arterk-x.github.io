@@ -4,6 +4,16 @@ header('Content-Type: text/plain'); // Mengatur header Content-Type
 header('Access-Control-Allow-Origin: *'); // Mengatur header CORS
 echo 'Hello, World!';
 ?>
+
+Access-Control-Allow-Origin: *
+
+content-type: text/plain
+
+
+https://arterk-x.github.io/.well-known/stellar.toml
+
+toml="https://arterk-x.github.io/.well-known/CURRENCY.toml"
+
 SEP: 0001
 Title: Stellar Info File
 Author: stellar.org
