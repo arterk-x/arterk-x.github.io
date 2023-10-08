@@ -6,6 +6,15 @@ Created: 2017-10-30
 Updated: 2022-05-27
 Version: 2.5.0
 
+Access-Control-Allow-Origin: *
+
+content-type: text/plain
+
+
+https://arterk-x.github.io/.well-known/stellar.toml
+
+toml="https://arterk-x.github.io/.well-known/stellar.toml"
+
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 FEDERATION_SERVER="https://arterk-x.github.io"
