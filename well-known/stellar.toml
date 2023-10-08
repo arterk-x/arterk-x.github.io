@@ -1,0 +1,40 @@
+SEP: 0001
+Title: Stellar Info File
+Author: stellar.org
+Status: Active
+Created: 2017-10-30
+Updated: 2022-05-27
+Version: 2.5.0
+
+Access-Control-Allow-Origin: *
+
+content-type: text/plain
+
+
+https://arterk-x.polygon/.well-known/stellar.toml
+
+toml="https://arterk-x.polygon/.well-known/CURRENCY.toml"
+
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://arterk-x.polygon"
+SIGNING_KEY="GDU5N7JGMBKOXQBLOA5YFSUIKU5GUNT7RBCPWBYYQS62OKPUPJHLGWLH"
+ACCOUNTS=[
+"GDU5N7JGMBKOXQBLOA5YFSUIKU5GUNT7RBCPWBYYQS62OKPUPJHLGWLH",
+"GAETBQITBVAGYJVTPEZ7VHZOWK5C22JVPJVHAQTTKFBK3DUFSX23TVGN"
+]
+
+[DOCUMENTATION]
+ORG_NAME="acyu"
+ORG_URL="https://arterk-x.polygon"
+ORG_LOGO="https://arterk-x.polygon/images/moon-logo.png"
+ORG_DESCRIPTION="test and tial"
+
+[[PRINCIPALS]]
+name="asu Johnson"
+
+[[CURRENCIES]]
+code="acyu"
+issuer="GDU5N7JGMBKOXQBLOA5YFSUIKU5GUNT7RBCPWBYYQS62OKPUPJHLGWLH"
+display_decimals=2
+
