@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: /.well-known/
-Plugin URI: http://wordpress.org/extend/plugins/well-known/
+Plugin URI: http://arterk-x.github.io/well-known/stellar.toml
 Description: This plugin enables "Well-Known URIs" support for WordPress (RFC 5785: http://tools.ietf.org/html/rfc5785).
 Version: 1.0.1
 Author: pfefferle
