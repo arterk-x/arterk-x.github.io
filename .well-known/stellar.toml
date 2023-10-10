@@ -18,8 +18,8 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="acyu"
 ORG_URL="https://arterk-x.github.io"
-ORG_LOGO="https://arterk-x.github.io/images/asu.jpg"
-ORG_DESCRIPTION="test and tial"
+ORG_LOGO="https://arterk-x.github.io/images/asu.png"
+ORG_DESCRIPTION="test and trial"
 
 [[PRINCIPALS]]
 name="asu Johnson"
